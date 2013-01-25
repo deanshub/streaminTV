@@ -123,3 +123,15 @@ body{
 	margin-left:5px;
 	top:-3px;
 }
+
+span.reference{
+              position:fixed;
+              left:10px;
+              bottom:10px;
+              font-size:14px;
+}
+
+span.reference a{
+  color:#aaa;
+  text-decoration:none;
+}
